@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://github-readme-stats.vercel.app/api?username=Merlin-A
+![AdityA's github stats]https://github-readme-stats.vercel.app/api?username=Merlin-A
