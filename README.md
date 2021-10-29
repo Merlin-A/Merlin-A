@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![AdityA's github stats]https://github-readme-stats.vercel.app/api?username=Merlin-A
+<img src="https://github-readme-stats.vercel.app/api?username=Merlin-A" alt="GitHub Stats" align="center" width="50%" />
