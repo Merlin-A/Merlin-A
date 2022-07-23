@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Merlin-A" alt="GitHub Stats" align="center" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Merlin-A&theme=gotham&show_icons=true" alt="GitHub Stats" align="center" width="50%" />
