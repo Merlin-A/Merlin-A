@@ -2,7 +2,7 @@
 
 <br/>
 
-<div class = "Social" style = "padding-bottom: 25px;">
+<div class = "Social" style = "margin-bottom: 25px;">
 <a href="https://www.instagram.com/aditya__a__/">
 <img align="left" alt="Aditya's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
