@@ -1,4 +1,4 @@
-<h3> Hi There <span> <img src = "https://user-images.githubusercontent.com/78374254/180597390-99fc5c2d-cbee-48f6-aaef-ab33ee0fbf6d.png"> 
+<h3> Hi There <span> <img src = "https://user-images.githubusercontent.com/78374254/180597390-99fc5c2d-cbee-48f6-aaef-ab33ee0fbf6d.png" width = "22px" height = "22px" /> 
  </span> </h3>
 
 <br/>
