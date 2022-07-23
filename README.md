@@ -3,7 +3,7 @@
 
 <br>
 
-![img]	https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
+
 <a href="https://www.instagram.com/aditya__a__/">
 <img align="left" alt="Aditya's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
