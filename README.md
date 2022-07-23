@@ -13,7 +13,8 @@
   <img align="left" alt="Aditya's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Merlin-A.visitor-badge/left_text=Visitors) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=Visitors)
+
   
 <br>
 
