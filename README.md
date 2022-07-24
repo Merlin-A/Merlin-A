@@ -11,7 +11,7 @@
 
 
 
-<h3> Hi There <span> <img src = "https://user-images.githubusercontent.com/78374254/180597390-99fc5c2d-cbee-48f6-aaef-ab33ee0fbf6d.png" width = "22px" height = "22px" /> 
+<h3 align = "center"> Hi There <span> <img src = "https://user-images.githubusercontent.com/78374254/180597390-99fc5c2d-cbee-48f6-aaef-ab33ee0fbf6d.png" width = "22px" height = "22px" /> 
  </span> </h3>
 
 <br>
@@ -41,12 +41,8 @@
 
 <br>
 
-## 📈 GitHub Stats 
+## 📈 GitHub Stats
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact&theme=gotham)]("https://www.google.com")
-
-
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merlin-A&layout=compact&theme=gotham" alt="Language Stats" align="center" width="50%" />
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Merlin-A&theme=gotham&show_icons=true" alt="GitHub Stats" align="center" width="50%" />
