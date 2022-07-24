@@ -31,4 +31,4 @@
 
 
 
-<img align = "center" src="https://github-readme-stats.vercel.app/api?username=Merlin-A&theme=gotham&show_icons=true" alt="GitHub Stats" align="center" width="50%" />
+<p align = "center"> <img  src="https://github-readme-stats.vercel.app/api?username=Merlin-A&theme=gotham&show_icons=true" alt="GitHub Stats" align="center" width="50%" />
