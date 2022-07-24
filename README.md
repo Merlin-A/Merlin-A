@@ -15,7 +15,7 @@
 </a>
 
 <a href = "https://adityaa.netlify.app/">
- <img align = "left" src = "https://user-images.githubusercontent.com/78374254/180651460-2827bfaa-9411-4b6f-baa5-62f593aceb72.png" /> 
+ <img align = "left" alt = "Aditya's Portfolio" width="22px" height = "22px" src = "https://user-images.githubusercontent.com/78374254/180651460-2827bfaa-9411-4b6f-baa5-62f593aceb72.png" /> 
  </a>
 
 
