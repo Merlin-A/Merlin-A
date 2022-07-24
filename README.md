@@ -1,9 +1,11 @@
-<p align = "center">
+<!-- <p align = "center">
  
   <img src = "https://user-images.githubusercontent.com/78374254/180652704-123c21c5-3a9b-4133-af75-0b47d9e9d5b7.jpg"  alt = "Banner" />
  
 </p>
- 
+  -->
+
+
 
 
 
@@ -38,6 +40,13 @@
 
 
 <br>
+
+## 📈 GitHub Stats 
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact&theme=gotham)]
+
 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Merlin-A&theme=gotham&show_icons=true" alt="GitHub Stats" align="center" width="50%" />
