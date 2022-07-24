@@ -46,6 +46,6 @@
 
 ## 📈 GitHub Stats
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merlin-A&theme=gotham&hide=tcl" alt="Language Stats" align="center" height = "50%" width="50%" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merlin-A&theme=gotham&hide=tcl" alt="Language Stats" align="center" height = "50vh" width="50vw" />
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Merlin-A&theme=gotham&show_icons=true" alt="GitHub Stats" align="center" width="50%" />
+<img  src="https://github-readme-stats.vercel.app/api?username=Merlin-A&theme=gotham&show_icons=true" alt="GitHub Stats" align="center" width="50vw" />
