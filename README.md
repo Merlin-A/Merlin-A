@@ -37,11 +37,6 @@
 
   
 <br>
-## 📈 Technical Skills 
-
-#Languages 
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB)
 
 
 
