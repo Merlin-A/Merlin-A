@@ -49,4 +49,4 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Merlin-A&theme=gotham&show_icons=true" alt="GitHub Stats" align="center"  />
 
-<img  src = "https://github-readme-streak-stats.herokuapp.com?user=Merlin-A&theme=nightowl" alt = "Streak" align = "center" />
+<img  src = "https://github-readme-streak-stats.herokuapp.com?user=Merlin-A&theme=gotham" alt = "Streak" align = "center" />
