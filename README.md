@@ -18,18 +18,18 @@
 
 
 <a href="https://www.instagram.com/aditya__a__/">
-<img align="left" alt="Aditya's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<img align="left" alt="Aditya's Instagram" width="28px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/Aditya__A__">
-  <img align="left" alt="Aditya's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Aditya's Twitter" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/aditya-ace/">
-  <img align="left" alt="Aditya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Aditya's LinkedIN" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <a href = "https://adityaa.netlify.app/">
- <img align = "left" alt = "Aditya's Portfolio" width="22px" height = "22px" src = "https://user-images.githubusercontent.com/78374254/180651460-2827bfaa-9411-4b6f-baa5-62f593aceb72.png" /> 
+ <img align = "left" alt = "Aditya's Portfolio" width="28px" height = "28px" src = "https://user-images.githubusercontent.com/78374254/180651460-2827bfaa-9411-4b6f-baa5-62f593aceb72.png" /> 
  </a>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Merlin-A.visitor-badge&left_text=Visitors)
