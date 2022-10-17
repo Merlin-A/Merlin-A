@@ -1,6 +1,6 @@
 <!-- <p align = "center">
  
-  <img src = "https://user-images.githubusercontent.com/78374254/180652704-123c21c5-3a9b-4133-af75-0b47d9e9d5b7.jpg"  alt = "Banner" />
+  <img src = "https://media.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif"  alt = "Banner" />
  
 </p>
   -->
