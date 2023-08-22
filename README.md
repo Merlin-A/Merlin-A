@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/aditya-ace/">
-  <img align="left" alt="Aditya's LinkedIN" width="28px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
+  <img align="left" alt="Aditya's LinkedIN" width="28px" src="https://github.com/hussainweb/hussainweb/blob/73f2376ce64259a6b60eb044a919a76a73fcd3b0/icons/linkedin.png" />
 </a>
 
 <a href = "https://adityaa.netlify.app/">
