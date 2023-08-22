@@ -21,11 +21,11 @@
 <img align="left" alt="Aditya's Instagram" width="28px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/Aditya__A__">
-  <img align="left" alt="Aditya's Twitter" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Aditya's Twitter" width="28px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/aditya-ace/">
-  <img align="left" alt="Aditya's LinkedIN" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Aditya's LinkedIN" width="28px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
 <a href = "https://adityaa.netlify.app/">
