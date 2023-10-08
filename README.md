@@ -38,7 +38,8 @@
 <br>
 <br>
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=merlin)](https://holopin.io/@merlin)
+[![An image of @merlin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/merlin)](https://holopin.io/@merlin)
+
 
 
 <br> 
