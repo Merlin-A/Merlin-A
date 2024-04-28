@@ -53,3 +53,4 @@
 
 
 <img  src = "https://github-readme-streak-stats.herokuapp.com?user=Merlin-A&theme=gotham" alt = "Streak" align = "center" />
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
