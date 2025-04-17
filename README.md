@@ -17,6 +17,8 @@
 <br>
 
 <center> 
+
+ <!--
 <a href="https://www.instagram.com/aditya__a__/">
 <img align="left" alt="Aditya's Instagram" width="28px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -24,7 +26,7 @@
   <img align="left" alt="Aditya's Twitter" width="28px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
 </a>
 
-<!--
+
 <a href="https://www.linkedin.com/in/aditya-ace/">
   <img align="left" alt="Aditya's LinkedIN" width="28px" src="https://github.com/hussainweb/hussainweb/blob/73f2376ce64259a6b60eb044a919a76a73fcd3b0/icons/linkedin.png" />
 </a>
