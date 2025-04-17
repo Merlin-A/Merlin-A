@@ -24,6 +24,7 @@
   <img align="left" alt="Aditya's Twitter" width="28px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
 </a>
 
+<!--
 <a href="https://www.linkedin.com/in/aditya-ace/">
   <img align="left" alt="Aditya's LinkedIN" width="28px" src="https://github.com/hussainweb/hussainweb/blob/73f2376ce64259a6b60eb044a919a76a73fcd3b0/icons/linkedin.png" />
 </a>
@@ -31,6 +32,8 @@
 <a href = "https://adityaa.netlify.app/">
  <img align = "left" alt = "Aditya's Portfolio" width="28px" height = "28px" src = "https://user-images.githubusercontent.com/78374254/180651460-2827bfaa-9411-4b6f-baa5-62f593aceb72.png" /> 
  </a>
+
+ -->
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Merlin-A.visitor-badge&left_text=Visitors) -->
 
